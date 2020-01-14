@@ -5,7 +5,7 @@ body{
 
 .container{
   display: grid;
-  grid-template-columns:1fr;
+  grid-template-columns:1fr ;
 }
 
 /*nav styles*/
@@ -24,9 +24,7 @@ body{
   font-size: 1em;
   text-transform: uppercase;
 }
-.bk-items-wrapper{
 
-}
 
 .nav-link-wrapper{
   height: 22px;
@@ -51,11 +49,11 @@ body{
 /*bk styles*/
 .bk-items-wrapper{
   display: grid;
-  grid-template-columns: 1fr ;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 
 .bk-item-wrapper{
-  position: relative;
+  position:relative;
 }
 
 .bk-img-background{
