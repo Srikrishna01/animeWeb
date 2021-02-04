@@ -33,9 +33,11 @@ body{
 }
 
 .nav-link-wrapper a{
-  color: #8a8a8a;
+  color: #9400d3;
+  font-size: 18px;
   text-decoration:none;
   transition: color 0.5s;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .nav-link-wrapper :hover{
@@ -43,7 +45,7 @@ body{
 }
 
 .nav-link-wrapper a:hover{
-  color: whitesmoke;
+  color:crimson
 }
 
 /*bk styles*/
